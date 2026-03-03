@@ -1,4 +1,4 @@
-In python we represent string with '',"", """ """ that is with single quotation , double quotation and triple quotatio
+In python we represent string with '',"", """ """ that is with single quotation , double quotation and triple quotation
 
 >>> name = 'Roshan Kumar Ram'
 >>> name
