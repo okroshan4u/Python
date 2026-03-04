@@ -1,7 +1,7 @@
 <!-- >>> h1 = [1,2,3]
 >>> h1
 [1, 2, 3]
->>> h2 = h1[:] ## when we are slicing then we are making the copy of the h1 that means a new reference to the h2 so anything change in h1 will not change  h2
+>>> h2 = h1[:] ## when we are slicing then we are making the copy of the h1 that means a new reference to the h2 so anything change in h1 will not change  
 >>> h2
 [1, 2, 3]
 >>> h1[0] = 25
@@ -33,4 +33,5 @@ SyntaxError: invalid syntax
 >>> m == n
 True
 >>> m is n  // here "is" operator checks  the reference in the memory is same or not 
+
 False
