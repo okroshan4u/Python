@@ -1,5 +1,5 @@
 >>> chai_types = {"Masala": "Spicy", "lemon": "sour","green":"Mild"}  
->>> chai_types
+>>> chai_type
 {'Masala': 'Spicy', 'lemon': 'sour', 'green': 'Mild'}
 >>> for c in chai_types:
 ...     print(c)
@@ -85,4 +85,5 @@ NameError: name 'default_values' is not defined. Did you mean: 'default_value'?
 >>> new_dict = dict.fromkeys(keys, keys)
 >>> new_dict
 {'Masala': ['Masala', 'Ginger', 'Lemon'], 'Ginger': ['Masala', 'Ginger', 'Lemon'], 'Lemon': ['Masala', 'Ginger', 'Lemon']}
+
 >>>
