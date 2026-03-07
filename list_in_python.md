@@ -8,7 +8,7 @@ Oolong
 >>> print(chai_varieties[2]) 
 Green
 >>> print(chai_varieties[-1])
-red 
+r
 >>> print(chai_varieties[:2]) 
 ['Oolong', 'lemon']
 >>> print(chai_varieties[1:]) 
@@ -110,4 +110,5 @@ range(0, 10)
 IndentationError: unexpected indent
 >>> cobe_num = [ y**3 for y in range(5)]
 >>> cobe_num
+
 [0, 1, 8, 27, 64]
