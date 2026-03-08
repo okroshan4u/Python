@@ -1,6 +1,6 @@
 <!-- basi operators are there -->
 
->>> import mat
+>>> import math
 >>> math.floor(3.6)
 3   
 >>> math.floor(-3.5)
@@ -114,3 +114,4 @@ Decimal('0.0')
 Fraction(3, 8)
 
 >>>
+
