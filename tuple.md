@@ -1,6 +1,6 @@
 <!-- tuple are immutable in python -->
 
->>> chai_types = ("Lemon","Black","Green")
+>>> chai_types = ("Lemon","Black","Green"
 >>> chai_types
 ('Lemon', 'Black', 'Green')
 >>> chai_types[0]
@@ -59,4 +59,5 @@ IndentationError: unexpected indent
 'Lemon'
 >>> type(chai_types)
 <class 'tuple'>
+
 >>>
