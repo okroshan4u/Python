@@ -1,7 +1,7 @@
 <!-- basi operators are there -->
 
 >>> import math
->>> math.floor(3.6
+>>> math.floor(3.6)
 3   
 >>> math.floor(-3.5)
 -4  
