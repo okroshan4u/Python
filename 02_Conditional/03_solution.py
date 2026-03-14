@@ -1,4 +1,4 @@
-score = 20
+score = 2
 
 if score >= 101:
     print("Please enter a valid grade score")
