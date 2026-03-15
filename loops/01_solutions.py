@@ -1,6 +1,6 @@
 # Find the positive number from a given number of list
 
-numbers = [1,-2,3,-8,4,-6,8,7,4,-160,12]
+numbers = [1,-2,3,-8,4,-6,8,7,4,-160,12,23]
 
 sum = 0;
 for num in numbers:
