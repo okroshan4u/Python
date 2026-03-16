@@ -1,4 +1,4 @@
-#Reverse a string using loops
+#Reverse a string using loop
 
 str = "Roshan"
 str2 = ""
@@ -9,7 +9,6 @@ str2 = ""
 #     str2= str2 + (str[l])
     
 # print(str2)
-
 # OR
 
 for c in str:
