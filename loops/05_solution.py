@@ -1,4 +1,5 @@
 # Find the first non-repeated character
+# loops in handy
 str = "rrosltot"
 
 for char in str:
