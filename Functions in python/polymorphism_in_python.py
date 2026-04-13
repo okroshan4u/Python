@@ -1,6 +1,6 @@
 # Write a functin named multiply that multiplies tow numbers, but can also accepts and mulitply strings
 
-# def multiply(p1, p2):
+# def multiply(p1, p2): # here it not sutitable for the string 
 #     return p1 * p2
 
 
