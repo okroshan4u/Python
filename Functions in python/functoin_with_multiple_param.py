@@ -3,4 +3,4 @@
 def sum_of_two_num( a,  b): # here it is called parameters
     return float(a + b )
 
-print(sum_of_two_num(4,5))
+print(sum_of_two_num(4,5)) ## here 4 and 5 is called arguments
