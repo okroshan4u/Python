@@ -5,5 +5,5 @@ from hello import tell
 
 tell("Roshan")
 
-# here __pycashe__ file generated 
+# here __pycashe__ file generated when we import file from other file 
 
