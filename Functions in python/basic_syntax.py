@@ -6,7 +6,7 @@
 
 
 def square_of_num(numbers):
-   return numbers**2  ## here we are returning  so saving this in a result will give correct resu
+   return numbers**2  ## here we are returning  so saving this in a result will give correct resul
 
 result = square_of_num(4)
 print(result)    
