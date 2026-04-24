@@ -1,3 +1,3 @@
-from hello import tel
+from hello import tell
 
 tell("Roshan")
