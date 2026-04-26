@@ -2,7 +2,7 @@
 >>> chai_types
 {'Masala': 'Spicy', 'lemon': 'sour', 'green': 'Mild'}
 >>> for c in chai_types:
-...     print(c
+...     print(c)
 >>>
 ...
 Masala
