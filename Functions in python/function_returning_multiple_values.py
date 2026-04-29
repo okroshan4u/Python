@@ -1,4 +1,4 @@
-# Create a function returning multiple valu
+# Create a function returning multiple values
 import math
 def area_circum(radius):
     circumference = math.pi * 2 * radius
