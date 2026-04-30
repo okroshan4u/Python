@@ -1,4 +1,4 @@
-age = 25
+age = 12
 
 day = "Wednesday"
 
