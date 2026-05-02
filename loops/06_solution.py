@@ -1,5 +1,5 @@
 # Find factorial of a number using while
-# Factorial of the n
+# Factorial of the num
 num = int(input("Enter the number of which you want factorial: "))
 fact = 1;
 while (num >0):
