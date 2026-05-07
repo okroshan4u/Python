@@ -1,4 +1,4 @@
-# print the number in the range given by user and add the even number amoung the
+# print the number in the range given by user and add the even number amoung then
 
 sum = 0
 
