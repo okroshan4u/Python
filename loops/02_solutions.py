@@ -1,5 +1,4 @@
-# print the number in the range given by user and add the even number amoung 
-
+# print the number in the range given by user and add the even number amoung then
 sum = 0
 
 num = int(input("Enter your num upto which you want the sum of even number: "))
