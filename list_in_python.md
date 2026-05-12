@@ -1,4 +1,4 @@
->>> chai_varieties = ["Oolong", "lemon "Green","red"]
+>>> chai_varieties = ["Oolong", "lemon", "Green","red"]
 >>> chai_varieties
 ['Oolong', 'lemon', 'Green', 'red']
 >>> print(chai_varieties)
