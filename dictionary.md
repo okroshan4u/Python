@@ -1,4 +1,4 @@
->>> chai_types = {"Masala": "Spicy", "lemon": "sour","green":"Mild"}
+>>> chai_types = {"Masala": "Spicy", "lemon": "sour","green":"Mild"
 >>> chai_types
 {'Masala': 'Spicy', 'lemon': 'sour', 'green': 'Mild'}
 >>> for c in chai_types:
