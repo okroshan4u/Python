@@ -1,4 +1,4 @@
-#Reverse a string using loop
+#Reverse a string using lo
 
 str = "Roshan"
 str2 = ""
