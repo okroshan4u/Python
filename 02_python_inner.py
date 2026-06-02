@@ -1,5 +1,5 @@
 # what are the files comes in or generated when we import the file and use that into other file
-# __pycashe__ file generate
+# __pycashe__ file generat
 from hello import tell
 
 
