@@ -1,4 +1,4 @@
-# what are the files comes in or generated when we import the file and use that into other fil
+# what are the files comes in or generated when we import the file and use that into other fi
 # __pycashe__ file generated
 from hello import tell
 
