@@ -7,12 +7,16 @@ def debug(func):
     def wrapper(*args , **kwargs):
         
         result = func(*args, **kwargs)
-        arg_value = 
-        print(f"{func.__name__} is taking")
+        
+        arg_value = ', '.join(str(arg) for arg in args)
+        
+        kwarg_value = ', '.join(f"{k} - {v}" for k , v in kwargs.items())
+        
+        print(f"calling : {func.__name__} with args {arg_value} and kwarg {kwarg_value}")
         return result
     return wrapper    
         
-
+@debug
 def greet(name , greeting = "Hello"):
     print(f"{name} - {greeting}")
     
