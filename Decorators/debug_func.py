@@ -1,5 +1,5 @@
 # Debugging function calls
-# Create a decorator to print the function name and the values of its arguments every time the function is called
+# Create a decorator to print the function name and the values of its arguments every time the function is calle
 
 import time
 
