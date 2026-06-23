@@ -1,4 +1,4 @@
-# Write a decorator that measures the time a function takes to exec
+# Write a decorator that measures the time a function takes to execute
 import time 
 
 
