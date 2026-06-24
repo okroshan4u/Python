@@ -1,4 +1,4 @@
-# Use a property decorator in the Car class to make the model attribute read-only
+# Use a property decorator in the Car class to make the model attribute read-onl
 
 class Car:
     def __init__(self, brand, model):
