@@ -1,4 +1,4 @@
-# Add a class variable to Car that keeps track of the number of cars created
+# Add a class variable to Car that keeps track of the number of cars creat
 class Car:
     total_car = 0
     def __init__(self, brand, model):
